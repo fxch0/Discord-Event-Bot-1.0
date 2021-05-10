@@ -39,7 +39,7 @@
 19. if it is type ".help" without the "" to see all the commands you have.
 
 # Good luck with your bot
-# If we hit 30 followers on GitHub ill make another bot
+# If we hit 10 followers on GitHub ill make another bot
 # Visual Studio Code download link:
 https://code.visualstudio.com/download
 # Node.js download link:
